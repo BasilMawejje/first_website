@@ -1,0 +1,31 @@
+#main{
+  width: 100%;
+  height: auto;
+  background-color: #ffffe6;
+  min-height: 100%;
+  padding: 15px;
+}
+
+#content{
+  width: 45%;
+  margin: 0 auto;
+  height: auto;
+  background-color: #e6e6e6;
+  padding: 10px;
+}
+
+#leftDiv{
+  width: 350px;
+  height: auto;
+  float: left;
+  background-color: #e6e6e6;
+  padding: 10px;
+}
+
+#img{
+  padding: 10px;
+  border-radius: 20px;
+}
+h1{
+  text-align: center;
+}
